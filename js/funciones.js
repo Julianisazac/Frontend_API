@@ -1,5 +1,5 @@
-const url = 'http://localhost:8282/HistoriasClinicas '
-// const url = 'https://api-hc-gdad.onrender.com/HistoriasClinicas'
+// const url = 'http://localhost:8282/HistoriasClinicas'
+const url = 'https://api-hc-examen.onrender.com/HistoriasClinicas'
 const regresarListar = () => {
     window.location.href = 'index.html';
 }
